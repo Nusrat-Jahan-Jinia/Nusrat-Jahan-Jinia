@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nusrat-jahan-98748a5a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nusrat-jahan-98748a5a" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/nusratjinia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nusratjinia" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/7108468/nusratjinia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7108468/nusratjinia" height="30" width="40" /></a>
 <a href="https://fb.com/jahanjinia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jahanjinia" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/xinnia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="xinnia" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/xinia214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="xinia214" height="30" width="40" /></a>
